@@ -28,5 +28,4 @@ async function getBackgroundImg(){
   }
 
   backgroundImg = loadImage(bg);
-  console.log(backgroundImg);
 }
