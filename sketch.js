@@ -28,4 +28,4 @@ async function getBackgroundImg(){
   }
 
   backgroundImg = loadImage(bg);
-}
+}}
